@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/shauket/Library/Developer/Xcode/DerivedData/testframework-cwjemxjjnnbslnaacdivusbqdlin/Build/Products/Debug-iphoneos/testframework.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/shauket/Desktop/testframework/build/testframework.build/Debug-iphoneos/testframework.build/unextended-module.modulemap',
+    }]
+  }]
+}

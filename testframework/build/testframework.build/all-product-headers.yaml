@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/shauket/Library/Developer/Xcode/DerivedData/testframework-cwjemxjjnnbslnaacdivusbqdlin/Build/Products/Debug-iphonesimulator/testframework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "testframework-Swift.h",
+          'external-contents': "/Users/shauket/Library/Developer/Xcode/DerivedData/testframework-cwjemxjjnnbslnaacdivusbqdlin/Build/Products/Debug-iphonesimulator/testframework.framework/Headers/testframework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "testframework.h",
+          'external-contents': "/Users/shauket/Desktop/testframework/testframework/testframework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/shauket/Library/Developer/Xcode/DerivedData/testframework-cwjemxjjnnbslnaacdivusbqdlin/Build/Products/Debug-iphonesimulator/testframework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/shauket/Desktop/testframework/build/testframework.build/Debug-iphonesimulator/testframework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

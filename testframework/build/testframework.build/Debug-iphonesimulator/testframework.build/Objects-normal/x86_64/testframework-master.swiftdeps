@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "a5b606646e6ff7cc672a34187ce5db8f"
+build_time: [1525544691, 813550000]
+inputs:
+  "/Users/shauket/Desktop/testframework/viewcontroller.swift": [1525543404, 0]
